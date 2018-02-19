@@ -502,9 +502,9 @@ electron-is-accelerator@^0.1.0:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/electron-is-accelerator/-/electron-is-accelerator-0.1.2.tgz#509e510c26a56b55e17f863a4b04e111846ab27b"
 
-electron-localshortcut@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/electron-localshortcut/-/electron-localshortcut-1.1.0.tgz#5a66508a5a219d68b2cb351e4a81505025e5f3e2"
+electron-localshortcut@1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/electron-localshortcut/-/electron-localshortcut-1.1.1.tgz#2b7fbad4a279d1678011254bc4d3578f195e00d4"
   dependencies:
     electron-is-accelerator "^0.1.0"
 
