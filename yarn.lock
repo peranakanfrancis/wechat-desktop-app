@@ -1205,11 +1205,11 @@ is-utf8@^0.2.0:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/is-utf8/-/is-utf8-0.2.1.tgz#4b0da1442104d1b336340e80797e865cf39f7d72"
 
-is-xfce@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/is-xfce/-/is-xfce-1.0.2.tgz#fc4a6970089a03821cbe812ed55e51ea84cc424a"
+is-xfce@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/is-xfce/-/is-xfce-2.0.0.tgz#57bac4a9784652948b474be5f024e12ac6c68523"
   dependencies:
-    pify "^2.3.0"
+    pify "^3.0.0"
 
 isarray@0.0.1:
   version "0.0.1"
@@ -1628,9 +1628,13 @@ performance-now@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
 
-pify@^2.0.0, pify@^2.3.0:
+pify@^2.0.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-2.3.0.tgz#ed141a6ac043a849ea588498e7dca8b15330e90c"
+
+pify@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/pify/-/pify-3.0.0.tgz#e5a4acd2c101fdf3d9a4d07f0dbc4db49dd28176"
 
 pinkie-promise@^2.0.0:
   version "2.0.1"
