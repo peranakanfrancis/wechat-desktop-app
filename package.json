@@ -36,7 +36,7 @@
     "electron-packager": "^8.5.1",
     "nconf": "^0.8.4",
     "pinyin": "^2.8.0",
-    "emojione": "^2.2.7",
+    "emojione": "^4.0.0",
     "electron-localshortcut": "1.1.1",
     "is-xfce": "^1.0.2"
   },
