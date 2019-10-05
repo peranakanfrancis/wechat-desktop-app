@@ -38,7 +38,7 @@
     "pinyin": "^2.8.0",
     "emojione": "^2.2.7",
     "electron-localshortcut": "1.1.1",
-    "is-xfce": "^1.0.2"
+    "is-xfce": "^4.0.0"
   },
   "devDependencies": {
     "babel-eslint": "7.2.3",
