@@ -37,7 +37,7 @@
     "nconf": "^0.8.4",
     "pinyin": "^2.8.0",
     "emojione": "^2.2.7",
-    "electron-localshortcut": "1.1.1",
+    "electron-localshortcut": "3.2.1",
     "is-xfce": "^1.0.2"
   },
   "devDependencies": {
